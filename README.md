@@ -18,8 +18,3 @@ https://scala-clippy.org/
 ## Tests (intellij)
 scalatest (suites and stuff), scalactic
 http://www.scalatest.org/install
-# Predef ?
-https://index.scala-lang.org/olivierblanvillain/prelude/prelude/0.1.0?target=_2.12
-https://github.com/slamdata/slamdata-predef/blob/master/src/main/scala/slamdata/Predef.scala
-https://github.com/OlivierBlanvillain/prelude/blob/master/src/main/scala/prelude.scala
-https://github.com/olivierblanvillain/prelude
