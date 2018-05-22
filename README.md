@@ -1,5 +1,3 @@
-# Private maven repos
-resolvers
 # Linting
 ## Scalafix
 progress: some rules rules don't seem to work (e.g. implicit string add)
