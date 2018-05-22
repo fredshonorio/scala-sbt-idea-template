@@ -12,6 +12,7 @@ https://github.com/ShaneDelmore/imclipitly
 https://scala-clippy.org/
 
 # Workflow
+## Publish to s3
 ## Integration tests
 ## REPL
 ## Running tests in REPL
